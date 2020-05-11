@@ -1,0 +1,13 @@
+1. graph1.txt is not satisfiable with 3 colors.
+2. graph1.txt is satisfiable with 4 colors.
+3. This tells us that the node with the highest degree has a degree of 4. A possible graph coloring is:
+
+Node 1: Yellow
+Node 2: Green
+Node 3: Yellow
+Node 4: Red
+Node 5: Blue
+Node 6: Green
+Node 7: Blue
+
+The minimum number of colors required to properly color graph2.txt is 8.
